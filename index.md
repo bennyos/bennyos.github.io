@@ -1,2 +1,2 @@
 <h1>hi</h1>
-<frame src=example.com></frame>
+<iframe src=example.com></iframe>
